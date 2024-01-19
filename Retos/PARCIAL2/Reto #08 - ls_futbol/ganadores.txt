@@ -1,0 +1,7 @@
+ brasil, 5
+ argentina, 4
+ uruguay, 4
+ dinamarca, 7
+ paraguay, 6
+ camerun, 8
+ nigeria, 9

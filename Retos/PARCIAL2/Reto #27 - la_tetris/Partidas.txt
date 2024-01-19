@@ -1,0 +1,11 @@
+16/09/2013
+Jesús Hernández, Eléctrica
+T,1
+O,2
+Siz,0
+Marianela Rodríguez, Telecomunicaciones
+Lder,3
+I,4
+Sder,2
+I,2
+Liz,0
