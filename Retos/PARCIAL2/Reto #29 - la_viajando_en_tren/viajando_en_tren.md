@@ -1,4 +1,4 @@
-# Reto #: 
+# Reto #: Viajando en tren.
 #### Dificultad: Fácil | Publicación: 07/01/24 | Corrección: 07/01/24
 
 ## Enunciado
