@@ -28,11 +28,6 @@ o Los valores para tipo de red social más utilizada son 1 =Facebook, 2 =Myspace
 4=Ninguno u otro
 o Mientras más usuarios usen una red social, esta se considera más rentable para hacer
 publicidad
-
-Actividades a Desarrollar:
-1. Identifique los datos de entrada y salida, colocándolos en esta tabla con el tipo de
-dato
-
 '''
 
 #inicializacion
