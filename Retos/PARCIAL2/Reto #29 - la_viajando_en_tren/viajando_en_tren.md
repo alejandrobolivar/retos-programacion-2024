@@ -30,6 +30,7 @@ pasajes que obtuvieron descuento
 Consideraciones:
   • El precio de un pasaje en tren se calcula tomando en
 cuenta el número de kilómetros que se van a recorrer, siendo el precio 60 BsF/km
-  • Este precio puede tener un descuento del 30% si la duración del viaje es de al menos 7 días, ó si el recorrido supera los 800 Km
+  • Este precio puede tener un descuento del 30% si la duración del viaje es de al menos 7 días, 
+ó si el recorrido supera los 800 Km
 ```
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
