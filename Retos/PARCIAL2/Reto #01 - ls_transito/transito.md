@@ -17,15 +17,13 @@ que llevaba al ser monitoreado, en millas por
 hora. Esta información se envía inmediatamente
 al departamento de tránsito donde se genera para cada vehículo lo siguiente:
 Placa del vehículo, Cuadrante por el cual circulaba (1, 2, 3 ó 4) y velocidad registrada (millas/hora)
-Desarrolle una aplicación de consola VB2010 que procese la información anterior para un grupo de
-vehículos y determine e imprima:
+Desarrolle un programa que procese la información anterior para un grupo de vehículos y determine e imprima:
 Para cada vehículo:
 1. Indicar si es infractor o no, en caso de serlo, la multa en $ que debe pagar. (4 puntos)
 Para todos los vehículos:
-2. Porcentaje de vehículos que circularon por el cuadrante 4 que no fueron infractores con
-respecto al total de vehículos reportados en ese cuadrante. (3 puntos)
-3. Cuantos vehículos fueron procesados por el departamento de tránsito antes de encontrar al
-primer infractor. (2 puntos)
+2. Porcentaje de vehículos que circularon por el cuadrante 4 que no fueron infractores
+con respecto al total de vehículos reportados en ese cuadrante. (3 puntos)
+3. Cuantos vehículos fueron procesados por el departamento de tránsito antes de encontrar al primer infractor. (2 puntos)
 4. Promedio de dólares cancelados por concepto de multas. ( 2 puntos)
 Consideraciones:
 a) Los límites de velocidad son:
