@@ -14,7 +14,7 @@ Desarrolle un programa que procese la información anterior
 para un grupo de conductores y determine e imprima:
 
 Para cada conductor:
-1)Indicar si es infractor o no, en caso de serlo  la multa que debe pagar.
+1)Indicar si es infractor o no, en caso de serlo la multa que debe pagar.
 
 Para todos los conductores:
 2)Porcentaje de vehículos que circularon en el turno 2 que no fueron infractores con respecto al total de conductores reportados en ese turno.
