@@ -4,10 +4,10 @@
 ## Enunciado
 
 ```
-Una empresa de trenes desea automatizar las estadísticas de su venta de
-pasajes, además de analizar sus ingresos. Para ello en un archivo de nombre
-“pasajes.txt” se registran los siguientes datos de los diferentes pasajes vendidos
-en sus terminales de trenes, en el mismo se almacena para cada terminal:
+Una empresa de trenes desea automatizar las estadísticas de su venta de pasajes, 
+además de analizar sus ingresos. Para ello en un archivo de nombre "pasajes.txt" 
+se registran los siguientes datos de los diferentes pasajes vendidos en sus terminales 
+de trenes, en el mismo se almacena para cada terminal:
 
   Nombre del terminal y número de pasajes vendidos
 
@@ -20,11 +20,10 @@ cual debe contener Número de Serial de Pasaje, Monto Cancelado
 (incluyendo el descuento si aplica) y un mensaje que indique si recibió o no
 recibió descuento. Además determine e imprima por pantalla:
 
-  1. Numero serial y Nombre del Terminal donde fue vendido el
-primer pasaje en recibir descuento que tiene una duración
-del viaje menor a 8 días.
-  2. Por cada terminal, promedio de monto cancelado por los
-pasajes que obtuvieron descuento
+  1. Numero serial y Nombre del Terminal donde fue vendido el primer pasaje en 
+recibir descuento que tiene una duración del viaje menor a 8 días.
+  2. Por cada terminal, promedio de monto cancelado por los pasajes que obtuvieron 
+descuento
   3. Terminal con mayor ingreso por los pasajes vendidos
 
 Consideraciones:
