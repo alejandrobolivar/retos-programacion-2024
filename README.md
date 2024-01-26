@@ -19,6 +19,8 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 ### Parcial 2
 * **#1** - 02/01/23 | Fácil | [`TRÁNSITO`](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/transito.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/tr%C3%A1nsito.py)]
 * **#2** - 02/01/23 | Fácil | [`BUSCANDO DONDE HACER PUBLICIDAD`](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.py)]
+* **#3** - 02/01/23 | Fácil | [`BUSCANDO DONDE HACER PUBLICIDAD`](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.py)]
+
 
 
 ## ¿Cómo puedo participar?
