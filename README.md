@@ -16,6 +16,9 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 ### Parcial I
 * **#1** - 02/01/23 | Fácil | [`COUNTER STRIKE`](./Retos/PARCIAL1/Reto%20%2301%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/counter_strike.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL1/Reto%20%2301%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/ingalejandrobolivar.py)]
 
+### Parcial II
+* **#1** - 02/01/23 | Fácil | [`TRÁNSITO`](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/transito.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/tr%C3%A1nsito.py)]
+
 ## ¿Cómo puedo participar?
 
 **Haz un [FORK](https://github.com/alejandrobolivar/retos-programacion-2024/fork) del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
