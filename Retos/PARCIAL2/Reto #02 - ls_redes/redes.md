@@ -1,10 +1,10 @@
-# Reto #02: Redes 
+# Reto #02: Buscando donde hacer publicidad. 
 #### Dificultad: Fácil | Publicación: 07/01/24 | Corrección: 07/01/24
 
 ## Enunciado
 
 ```
-Buscando donde hacer publicidad Con la intención de hacer la web más social se han creado múltiples 
+Con la intención de hacer la web más social se han creado múltiples 
 aplicaciones o sitios en Internet que permiten compartir información y establecer comunicación entre 
 grupos de personas, estos sitios son denominados REDES SOCIALES. Una empresa de publicidad 
 cuyo lema es “las empresas que invierten en publicidad, son las empresas que permanecen en la mente 
