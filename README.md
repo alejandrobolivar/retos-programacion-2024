@@ -13,7 +13,7 @@
 
 Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-* **#1** - 02/01/23 | Fácil | [`COUNTER STRIKE`]([./Retos/PARCIAL1/Reto #01 - COUNTER STRIKE [Fácil]/counter_strike.md)) | Correcciones: [[MI SOLUCIÓN](./Retos/Reto%20%231%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/alejandrobolivar.py)]
+* **#1** - 02/01/23 | Fácil | [`COUNTER STRIKE`](./Retos/PARCIAL1/Reto%20%2301%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/counter_strike.md) | Correcciones: [[MI SOLUCIÓN](./Retos/Reto%20%231%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/alejandrobolivar.py)]
 
 ## ¿Cómo puedo participar?
 
