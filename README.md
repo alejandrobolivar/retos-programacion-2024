@@ -23,6 +23,9 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#4** - 02/01/23 | Fácil | [`ISLA DEL DRAMA`](./Retos/PARCIAL2/Reto%20%2304%20-%20ls_isla_del_drama/isla%20del%20drama.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2304%20-%20ls_isla_del_drama/isla%20del%20drama.py)]
 * **#5** - 02/01/23 | Fácil | [`IMPORTADORA ENTREGO BIEN`](./Retos/PARCIAL2/Reto%20%2305%20-%20ls_importadora_entrego_bien/importadora_entrego_bien.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2305%20-%20ls_importadora_entrego_bien/importadora_entrego_bien.py)]
 * **#6** - 02/01/23 | Fácil | [`HARRY POTTER`](./Retos/PARCIAL2/Reto%20%2306%20-%20ls_harry_potter/harry_potter.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2306%20-%20ls_harry_potter/harry_potter.py)]
+* **#7** - 02/01/23 | Fácil | [`FUTBOL`](./Retos/PARCIAL2/Reto%20%2308%20-%20ls_futbol/futbol.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2308%20-%20ls_futbol/futbol.py)]
+
+
 
 
 ## ¿Cómo puedo participar?
