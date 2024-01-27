@@ -21,7 +21,8 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#2** - 02/01/23 | Fácil | [`BUSCANDO DONDE HACER PUBLICIDAD`](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.py)]
 * **#3** - 02/01/23 | Fácil | [`MARATÓN`](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.py)]
 * **#4** - 02/01/23 | Fácil | [`ISLA DEL DRAMA`](./Retos/PARCIAL2/Reto%20%2304%20-%20ls_isla_del_drama/isla%20del%20drama.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2304%20-%20ls_isla_del_drama/isla%20del%20drama.py)]
-
+* **#5** - 02/01/23 | Fácil | [`IMPORTADORA ENTREGO BIEN`](./Retos/PARCIAL2/Reto%20%2305%20-%20ls_importadora_entrego_bien/importadora_entrego_bien.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2305%20-%20ls_importadora_entrego_bien/importadora_entrego_bien.py)]
+* **#6** - 02/01/23 | Fácil | [`HARRY POTTER`](./Retos/PARCIAL2/Reto%20%2306%20-%20ls_harry_potter/harry_potter.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2306%20-%20ls_harry_potter/harry_potter.py)]
 
 
 ## ¿Cómo puedo participar?
