@@ -37,10 +37,14 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 
 #### LISTAS ANIDADAS:
 
-* **#17** - 02/01/23 | Fácil | [`ANALIZANDO BATAZOS`](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.md
-) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.py)]
+* **#17** - 02/01/23 | Fácil | [`ANALIZANDO BATAZOS`](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.py)]
+* **#18** - 02/01/23 | Fácil | [`BALDOSAS Y MÁS BALDOSAS`](./Retos/PARCIAL2/Reto%20%2318%20-%20la_baldosas_y_mas_baldosas/baldosas_y_mas_baldosas.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2318%20-%20la_baldosas_y_mas_baldosas/baldosas_y_mas_baldosas.py)]
+* **#20** - 02/01/23 | Fácil | [`DETECCIÇON DE HIPERTENSOS`](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.py)]
+* **#20** - 02/01/23 | Fácil | [`EMERGENCIA ELÇECTRICA`](./Retos/PARCIAL2/Reto%20%2321%20-%20la_emergencia_electrica/emergencia_electrica.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2321%20-%20la_emergencia_electrica/emergencia_electrica.py)]
 
 
+
+https://github.com/alejandrobolivar/retos-programacion-2024/blob/9b8a628b3a5747b353708b767e42db4fba8d5bd3/Retos/PARCIAL2/Reto%20%2321%20-%20la_emergencia_electrica/emergencia_electrica.md
 
 ## ¿Cómo puedo participar?
 
