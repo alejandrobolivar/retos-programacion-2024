@@ -39,17 +39,17 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 
 * **#17** - 02/01/23 | Fácil | [`ANALIZANDO BATAZOS`](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.py)]
 * **#18** - 02/01/23 | Fácil | [`BALDOSAS Y MÁS BALDOSAS`](./Retos/PARCIAL2/Reto%20%2318%20-%20la_baldosas_y_mas_baldosas/baldosas_y_mas_baldosas.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2318%20-%20la_baldosas_y_mas_baldosas/baldosas_y_mas_baldosas.py)]
-* **#20** - 02/01/23 | Fácil | [`DETECCIÇON DE HIPERTENSOS`](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.py)]
+* **#20** - 02/01/23 | Fácil | [`DETECCIÓN DE HIPERTENSOS`](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2320%20-%20la_deteccion_de_hipertensos/deteccion_de_hipertensos.py)]
 * **#21** - 02/01/23 | Fácil | [`EMERGENCIA ELÉCTRICA`](./Retos/PARCIAL2/Reto%20%2321%20-%20la_emergencia_electrica/emergencia_electrica.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2321%20-%20la_emergencia_electrica/emergencia_electrica.py)]
 * **#22** - 02/01/23 | Fácil | [`LLENANDO TANQUES`](./Retos/PARCIAL2/Reto%20%2322%20-%20la_llenando_tanques/llenando_tanques.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2322%20-%20la_llenando_tanques/llenando_tanques.py)]
 * **#23** - 02/01/23 | Fácil | [`LOST`](./Retos/PARCIAL2/Reto%20%2323%20-%20la_lost/lost.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2323%20-%20la_lost/lost.py)]
 * **#24** - 02/01/23 | Fácil | [`MI RED RESTAURANCITO`](./Retos/PARCIAL2/Reto%20%2324%20-%20la_mi_red_restaurancito/mi_red_restaurancito.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2324%20-%20la_mi_red_restaurancito/mi_red_restaurancito.py)]
+* **#25** - 02/01/23 | Fácil | [`QUAKE ARENA`](./Retos/PARCIAL2/Reto%20%2325%20-%20la_quake_arena/quake_arena.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2325%20-%20la_quake_arena/quake_arena.py)]
+* **#26** - 02/01/23 | Fácil | [`TANQUES`](./Retos/PARCIAL2/Reto%20%2326%20-%20la_tanques/tanques.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2326%20-%20la_tanques/tanques.py)]
+* **#27** - 02/01/23 | Fácil | [`TETRIS`](./Retos/PARCIAL2/Reto%20%2327%20-%20la_tetris/tetris..md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2327%20-%20la_tetris/tetris..py)]
+* **#28** - 02/01/23 | Fácil | [`UC CARS`](./Retos/PARCIAL2/Reto%20%2328%20-%20la_UCCars/uc_cars.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2328%20-%20la_UCCars/uc_cars.py)]
+* **#28** - 02/01/23 | Fácil | [`VIAJANDO EN TREN`](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.py)]
 
-
-
-
-
-https://github.com/alejandrobolivar/retos-programacion-2024/blob/5e318ed60cb9089cdaee345cc794e30aff3cb363/Retos/PARCIAL2/Reto%20%2324%20-%20la_mi_red_restaurancito/mi_red_restaurancito.md
 
 ## ¿Cómo puedo participar?
 
