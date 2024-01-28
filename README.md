@@ -26,6 +26,9 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#7** - 02/01/23 | Fácil | [`GUERRA DE CARTAS`](./Retos/PARCIAL2/Reto%20%2307%20-%20ls_guerra_de_cartas/guerra_de_cartas.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2307%20-%20ls_guerra_de_cartas/guerra_de_cartas.py)]
 * **#8** - 02/01/23 | Fácil | [`FUTBOL`](./Retos/PARCIAL2/Reto%20%2308%20-%20ls_futbol/futbol.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2308%20-%20ls_futbol/futbol.py)]
 * **#9** - 02/01/23 | Fácil | [`FILUC 2008`](./Retos/PARCIAL2/Reto%20%2309%20-%20ls_filuc2008/filuc2008.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2309%20-%20ls_filuc2008/filuc2008.py)]
+* **#10** - 02/01/23 | Fácil | [`FIEBRE PORCINA`](./Retos/PARCIAL2/Reto%20%2310%20-%20ls_fiebre_porcina/fiebre_porcina.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2310%20-%20ls_fiebre_porcina/fiebre_porcina.py)]
+* **#11** - 02/01/23 | Fácil | [`DEFINITIVA DE ALUMNOS`](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.py)]
+
 
 
 ## ¿Cómo puedo participar?
