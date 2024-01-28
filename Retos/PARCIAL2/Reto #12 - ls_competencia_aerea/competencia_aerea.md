@@ -22,18 +22,18 @@ desarrolle un programa que lea los datos del archivo, y determine e imprima en o
 "resultados.txt" lo siguiente:
 
 Para cada competidor:
-   Identificación del avión, un mensaje que indique si llegó a la meta o no, y
-   Velocidad de vuelo del avión expresada en km/h.
+  1.- Identificación del avión, un mensaje que indique si llegó a la meta o no, y
+  2.- Velocidad de vuelo del avión expresada en km/h.
 
 Para todos los competidores:
-   Porcentaje de competidores que no llegaron a la meta,
-   Identificación del avión ganador.
+  3.- Porcentaje de competidores que no llegaron a la meta,
+  4.- Identificación del avión ganador.
 
 Consideraciones:
-   No todos los aviones pudieron llegar a la meta por defectos técnicos.
-   La meta se encuentra a 4600 km del punto de partida y el ganador será aquel que haya recorrido una
+  a.- No todos los aviones pudieron llegar a la meta por defectos técnicos.
+  b.- La meta se encuentra a 4600 km del punto de partida y el ganador será aquel que haya recorrido una
 distancia mayor o igual a 4600 km con la mayor velocidad.
-   Utilice los siguientes datos de ejemplo para el diseño de su archivo:
+  c.- Utilice los siguientes datos de ejemplo para el diseño de su archivo:
 
 Identificación Distancia Tiempo
 MAC18F 4800 338.4
