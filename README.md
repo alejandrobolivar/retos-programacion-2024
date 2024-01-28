@@ -48,7 +48,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#26** - 02/01/23 | Fácil | [`TANQUES`](./Retos/PARCIAL2/Reto%20%2326%20-%20la_tanques/tanques.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2326%20-%20la_tanques/tanques.py)]
 * **#27** - 02/01/23 | Fácil | [`TETRIS`](./Retos/PARCIAL2/Reto%20%2327%20-%20la_tetris/tetris..md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2327%20-%20la_tetris/tetris..py)]
 * **#28** - 02/01/23 | Fácil | [`UC CARS`](./Retos/PARCIAL2/Reto%20%2328%20-%20la_UCCars/uc_cars.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2328%20-%20la_UCCars/uc_cars.py)]
-* **#28** - 02/01/23 | Fácil | [`VIAJANDO EN TREN`](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.py)]
+* **#29** - 02/01/23 | Fácil | [`VIAJANDO EN TREN`](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2329%20-%20la_viajando_en_tren/viajando_en_tren.py)]
 
 
 ## ¿Cómo puedo participar?
