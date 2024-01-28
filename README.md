@@ -17,6 +17,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#1** - 02/01/23 | Fácil | [`COUNTER STRIKE`](./Retos/PARCIAL1/Reto%20%2301%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/counter_strike.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL1/Reto%20%2301%20-%20COUNTER%20STRIKE%20%5BF%C3%A1cil%5D/ingalejandrobolivar.py)]
 
 ### Parcial 2
+#### LISTA SENCILLA:
 * **#1** - 02/01/23 | Fácil | [`TRÁNSITO`](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/transito.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2301%20-%20ls_transito/tr%C3%A1nsito.py)]
 * **#2** - 02/01/23 | Fácil | [`BUSCANDO DONDE HACER PUBLICIDAD`](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2302%20-%20ls_redes/redes.py)]
 * **#3** - 02/01/23 | Fácil | [`MARATÓN`](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2303%20-%20ls_maraton/maraton.py)]
@@ -28,6 +29,16 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#9** - 02/01/23 | Fácil | [`FILUC 2008`](./Retos/PARCIAL2/Reto%20%2309%20-%20ls_filuc2008/filuc2008.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2309%20-%20ls_filuc2008/filuc2008.py)]
 * **#10** - 02/01/23 | Fácil | [`FIEBRE PORCINA`](./Retos/PARCIAL2/Reto%20%2310%20-%20ls_fiebre_porcina/fiebre_porcina.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2310%20-%20ls_fiebre_porcina/fiebre_porcina.py)]
 * **#11** - 02/01/23 | Fácil | [`DEFINITIVA DE ALUMNOS`](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.py)]
+* **#12** - 02/01/23 | Fácil | [`DEFINITIVA DE ALUMNOS`](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2311%20-%20ls_definitiva_alumnos/definitiva_alumnos.py)]
+* **#13** - 02/01/23 | Fácil | [`BUSCANDO DONDE HACER PUBLICIDAD 2`](./Retos/PARCIAL2/Reto%20%2313%20-%20ls_Buscando_donde_hacer_publicidad/Buscando%20donde%20hacer%20publicidad.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2313%20-%20ls_Buscando_donde_hacer_publicidad/Buscando%20donde%20hacer%20publicidad.py)]
+* **#14** - 02/01/23 | Fácil | [`BATALLA NAVAL`](./Retos/PARCIAL2/Reto%20%2314%20-%20ls_batalla_naval/batalla%20naval.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2314%20-%20ls_batalla_naval/batalla%20naval.py)]
+* **#15** - 02/01/23 | Fácil | [`BALANZA Y MEDICIONES`](./Retos/PARCIAL2/Reto%20%2315%20-%20ls_balanza%20y%20mediciones/balanza%20y%20mediciones.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2315%20-%20ls_balanza%20y%20mediciones/balanza%20y%20mediciones.py)]
+* **#16** - 02/01/23 | Fácil | [`ADMINISTRANDO CONDOMINIO`](./Retos/PARCIAL2/Reto%20%2316%20-%20ls_administrando_condominio/administrando_condominio.md) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2316%20-%20ls_administrando_condominio/administrando_condominio.py)]
+
+#### LISTAS ANIDADAS:
+
+* **#17** - 02/01/23 | Fácil | [`ANALIZANDO BATAZOS`](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.md
+) | Correcciones: [[MI SOLUCIÓN](./Retos/PARCIAL2/Reto%20%2317%20-%20la_analizando_batazos/analizando_batazos.py)]
 
 
 
